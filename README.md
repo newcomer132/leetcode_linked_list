@@ -1,2 +1,11 @@
-# leetcode_linked_list
-my learn process
+# 我的第一个 GitHub 仓库
+
+这是我用 GitHub 创建的第一个项目。
+
+## 学习目标
+- 学习 GitHub 的基本使用
+- 学习如何提交修改
+- 学习如何创建分支和 PR
+
+## 备注
+这是一个测试仓库，后面我会继续练习。
